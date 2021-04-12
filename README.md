@@ -1,4 +1,12 @@
 # TFG
+
+## Instalation guide
+ * Get python from https://www.python.org/downloads/
+ * python -m pip install Django
+ * pip install djangorestframework
+ * pip install django-cors-headers
+ * npm install -g @angular/cli
+
 ## How to run
 * venv
   * cd Scripts
@@ -9,6 +17,7 @@
   * ng serve
 
 ## Production build
-  * ng build --prod
-  * cd dist/frontend
-  * http-server -o
+* frontend
+   * ng build --prod
+   * cd dist/frontend
+   * http-server -o
