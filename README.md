@@ -8,6 +8,7 @@
  * npm install -g @angular/cli
 
 ## How to run
+* Clone both main and frontend branch 
 * venv
   * cd Scripts
   * activate.bat
